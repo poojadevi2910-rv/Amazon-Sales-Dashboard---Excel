@@ -6,7 +6,7 @@ An interactive E-Commerce Data Analytics Dashboard built in Excel to analyze sal
 
 ## 📊 Dashboard Overview
 
-![Amazon Great Indian Festival Dashboard](./Amazon_sales.jpg)
+![Amazon Sales Dashboard](./Amazon_sales.png)
 
 ---
 
